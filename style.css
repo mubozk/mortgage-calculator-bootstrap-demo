@@ -1,0 +1,39 @@
+div {
+    border-color: blue;
+    border-radius: 10px;
+    margin: 10px;
+    margin: 0 auto;
+    background-color: black;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: black;
+  }
+  
+  .slider-container {
+
+    margin: 0 auto;
+  }
+  
+  .slider {
+    width: 100%;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+  .tenure-select-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .tenure-select-container label,
+  .tenure-select-container select {
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  * {
+    background-color: black;
+  }
